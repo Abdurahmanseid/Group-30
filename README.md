@@ -11,3 +11,11 @@ Service Banner Extraction: Retrieves critical version/service from open ports us
 Vulnerability Correlation: Cross-references service banners with Exploit-DB to highlight known CVEs and public exploits.
 
 Actionable Reporting: Generates clear console summaries and exports machine-readable JSON files detailing ports, services, banners, and vulnerabilities.
+
+group members
+
+1 
+2
+3
+4
+5
