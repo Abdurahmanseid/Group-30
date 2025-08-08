@@ -12,7 +12,7 @@ Vulnerability Correlation: Cross-references service banners with Exploit-DB to h
 
 Actionable Reporting: Generates clear console summaries and exports machine-readable JSON files detailing ports, services, banners, and vulnerabilities.
 
-group members
+Group members
 
 1 
 2
