@@ -1,16 +1,8 @@
 # Group-30
-Cyber Security Team Project
-Overview
-This Python-based Port Guardian Utility empowers security analysts, network administrators, and penetration testers to automate the detection of weaknesses in target systems. By integrating nmap for port discovery, socket for service identification, and Exploit-DB for vulnerability matching, it streamlines the process of identifying open ports, exposed services, and associated security risks. 
+Cyber Security Team Project <br>
+<strong>Digital Protection Hub</strong>
 
-Features
-Automated Port Scanning: Discovers accessible services across user-defined or default port ranges (1-1024) via efficient nmap integration.
-
-Service Banner Extraction: Retrieves critical version/service from open ports using lightweight socket connections.
-
-Vulnerability Correlation: Cross-references service banners with Exploit-DB to highlight known CVEs and public exploits.
-
-Actionable Reporting: Generates clear console summaries and exports machine-readable JSON files detailing ports, services, banners, and vulnerabilities.
+Digital Protection Hub is an all-in-one security platform designed to help identify, analyze, and respond to potential cyber threats. It combines six key tools in one place: a Firewall Log Monitor for detecting suspicious activity, a Port Scanner powered by Nmap to find open ports and services, a Malware Scanner that checks files against VirusTotal’s database, a Password Strength Checker to evaluate security based on complexity and common patterns, a Software Inventory Checker to identify outdated or vulnerable applications, and an IP Geolocation & Reputation Checker that uses ip-api.com to pinpoint the physical location of an IP and AbuseIPDB to assess its malicious activity history. For example, scanning IP 203.0.113.45 may reveal from ip-api.com that it is located in Amsterdam, Netherlands and hosted by DigitalOcean, LLC, while AbuseIPDB shows a confidence score of 85 (high risk) with 24 reports for port scanning and brute-force attacks
 
 Group members
 
